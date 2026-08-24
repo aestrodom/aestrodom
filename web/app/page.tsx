@@ -175,7 +175,7 @@ export default function Home() {
           </p>
           <p className={styles.small}>
             There is a token, $AESTRODOM —{" "}
-            <span className="mono">coming soon</span> on Robinhood, LP locked at launch. Its pool
+            <span className="mono">0x98ce84f8b3ff1ed86d58fed3a3b79d3d44fc4d7b</span> on Robinhood, LP locked at launch. Its pool
             fees fund the probes. It is not required for anything: the data on this page is free
             either way.
           </p>

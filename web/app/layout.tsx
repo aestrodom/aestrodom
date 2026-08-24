@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image", site: "@aestrodom" },
   verification: {
-    other: { "virtual-protocol-site-verification": "cf48097bf55798261024758d527bbf0f" },
+    other: { "virtual-protocol-site-verification": "463ddb7fbc2523ceb69773204a5934a7" },
   },
 };
 
